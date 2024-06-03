@@ -1,0 +1,15 @@
+.fade-in{
+    animation: fade 6s;
+    font-family: fantasy;
+    color: white;
+}
+@keyframes fade{
+from{
+    opacity: 0;
+}
+to{
+    opacity: 1;
+}
+
+
+}
